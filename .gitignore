@@ -3,9 +3,3 @@
 
 # Ignore VSCode files
 .vscode
-
-# Ignore Ansible files
-.ansible
-.cache
-.vault
-*.retry
