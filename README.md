@@ -4,9 +4,6 @@
 
 Custom theme and style files for my MkSlides presentations.
 
-> [!TIP]
-> This image is particularly well-suited for isolated environments!
-
 ```bash
 docker pull dudecalledbro/slides-theme:latest
 ```
