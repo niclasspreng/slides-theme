@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="cardClip"><rect x="20" y="20" width="984" height="984" rx="199" ry="199"/></clipPath>
+<clipPath id="band0"><rect x="0" y="0.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band1"><rect x="0" y="73.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band2"><rect x="0" y="146.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band3"><rect x="0" y="219.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band4"><rect x="0" y="292.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band5"><rect x="0" y="365.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band6"><rect x="0" y="438.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band7"><rect x="0" y="511.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band8"><rect x="0" y="584.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band9"><rect x="0" y="657.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band10"><rect x="0" y="730.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band11"><rect x="0" y="803.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band12"><rect x="0" y="876.00" width="1024" height="73.00"/></clipPath>
+<clipPath id="band13"><rect x="0" y="949.00" width="1024" height="75.00"/></clipPath>
+</defs>
+<rect x="20" y="20" width="984" height="984" rx="199" ry="199" fill="white" stroke="#111111" stroke-width="6"/>
+<g clip-path="url(#cardClip)">
+<path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,174.40458598726116,857.952101910828)" fill="#111111" fill-opacity="0.24"/>
+<g clip-path="url(#band0)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,156.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band1)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,166.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band2)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,182.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band3)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,148.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band4)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,139.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band5)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,134.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band6)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,149.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band7)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,137.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band8)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,164.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band9)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,148.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band10)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,163.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band11)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,143.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band12)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,132.40458598726116,843.952101910828)" fill="#111111"/></g>
+<g clip-path="url(#band13)"><path d="M690 0H519L233 433V0H62V702H233L519 267V702H690Z" transform="matrix(0.9457324840764331,0,0,-0.9457324840764331,156.40458598726116,843.952101910828)" fill="#111111"/></g>
+<line x1="60" y1="342.00" x2="964" y2="342.00" stroke="#111111" stroke-opacity="0.35" stroke-width="4"/>
+<line x1="60" y1="663.00" x2="964" y2="663.00" stroke="#111111" stroke-opacity="0.35" stroke-width="4"/>
+</g>
+<rect x="20" y="20" width="984" height="984" rx="199" ry="199" fill="none" stroke="#111111" stroke-width="6"/>
+</svg>
