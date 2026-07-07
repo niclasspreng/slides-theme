@@ -1,0 +1,20 @@
+---
+services:
+  slides:
+    image: dudecalledbro/mkslides:latest
+    command: mkslides serve --config-file /mkslides.yml --dev-addr 0.0.0.0:8000 .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./slides:/slides
+      - ./mkslides.yml:/mkslides.yml
+    depends_on:
+      - theme
+
+  theme:
+    build:
+      context: ..
+    ports:
+      - "8080:80"
+    volumes:
+      - ../styles:/usr/share/nginx/html:ro

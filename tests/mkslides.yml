@@ -1,0 +1,12 @@
+---
+index:
+  title: Test
+  favicon: http://localhost:8080/assets/favicon.ico
+  theme: http://localhost:8080/reveal-js/index.css
+slides:
+  favicon: http://localhost:8080/assets/favicon.ico
+  theme: http://localhost:8080/reveal-js/slides.css
+revealjs:
+  height: 1080
+  width: 1920
+  transition: fade
